@@ -1,5 +1,3 @@
-
-
 body {
     font-family: "Vidaloka",serif;
     font-size: 17px;
@@ -158,8 +156,8 @@ text-align:right}
 .tm-col-about {
     width: 100%;
     height: 100%;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
 	background: ;
 }
 .sonia-f {
@@ -192,7 +190,7 @@ margin: 0px 10px 0px 0px;
  }
 .sofi-about{
 
-padding: 5px 0px;}
+padding: 0px 0px;}
 .sofi-about img{
 
 padding: 5px 0px;}
@@ -215,8 +213,8 @@ font-family: "Vidaloka",serif;
     width: 10%;
     height: 100%;
 		float:left;
-    padding-left: 70px;  
-    padding-right: 40px;
+    padding-left: 0px;  
+    padding-right: 0px;
 	float:left;
 }
 .tm-about-z { 
